@@ -1,0 +1,267 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
+
+# === КРАСНОДАР И АРМАВИР ===
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="pervy",Первый (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="rossia1",Россия 1 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="rossia-24",Россия 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="ntv",НТВ (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_NTV_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="match-tv",Матч ТВ (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="5kanal-ru",Пятый (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_5TV_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="sts",СТС (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_STS-KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="tnt",ТНТ (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TNT_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="tnt4",ТНТ4 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TNT4/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="domashny",Домашний (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="domashny",Домашний (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="tv3-ru",ТВ-3 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TV3_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="piatnica",Пятница! (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="zvezda",Звезда (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="mir",МИР (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="che",Че! (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="karusel",Карусель (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="otr",ОТР (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="tvcentr",ТВ Центр (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_TVC_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="rentv",РЕН ТВ (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="krasnodar",Краснодар (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_KRASNODAR/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="kuban-24",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24-T/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="kuban-24",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="rbk",РБК-Кубань (Краснодарский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_RBC-KRD/variant.m3u8
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="izvestia",Известия-Армавир (Армавир)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA-ARMAVIR/variant.m3u8
+
+# === СТАВРОПОЛЬ ===
+#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy",Первый (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy",Первый (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy",Первый (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_1/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1",Россия 1 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1",Россия 1 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1",Россия 1 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_3/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia-24",Россия 24 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia-24",Россия 24 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_3/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv",НТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv",НТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_NTV_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv",НТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_NTV_3/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="match-tv",Матч ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="match-tv",Матч ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="5kanal-ru",Пятый (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="5kanal-ru",Пятый (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_5TV_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="kultura",Россия К (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="kultura",Россия К (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_1/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="sts",СТС (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="sts",СТС (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_STS_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="tnt",ТНТ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_TNT_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="domashny",Домашний (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="domashny",Домашний (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="tv3-ru",ТВ-3 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="tv3-ru",ТВ-3 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_TV3_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="piatnica",Пятница! (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="piatnica",Пятница! (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="zvezda",Звезда (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="zvezda",Звезда (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="mir",МИР (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_MIR_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="muztv",МУЗ-ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="che",Че! (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="yu",Ю (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="karusel",Карусель (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="otr",ОТР (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="otr",ОТР (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="tvcentr",ТВ Центр (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="tvcentr",ТВ Центр (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_TVC_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rentv",РЕН ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rentv",РЕН ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_STV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="atv-stavropol",АТВ-Ставрополь (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="svoyo-tv-stavropol",Своё ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
