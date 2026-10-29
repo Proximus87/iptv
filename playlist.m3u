@@ -1,15 +1,15 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
-#EXTINF:-1 group-title="Ставрополь" tvg-id="svoyo-tv-stavropol" tvg-name="Своё ТВ (Ставрополь)" tvg-logo="https://iptvx.one",Своё ТВ (Ставрополь)
+#EXTM3U url-tvg="https://iptvx.one" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
+#EXTINF:-1 group-title="Ставрополь" tvg-id="svoyo-tv-stavropol" tvg-name="Своё ТВ (Ставрополь)" tvg-logo="https://it999.ru",Своё ТВ (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
-#EXTINF:-1 group-title="Ставрополь" tvg-id="atv-stavropol" tvg-name="АТВ Ставрополь" tvg-logo="https://iptvx.one",АТВ Ставрополь
-http://hv8bnhcf.virelloso.top/iptv/R2WLB2WWFM92EF/15354/index.m3u8
-#EXTINF:-1 group-title="Ставрополь" tvg-id="kavkaz24" tvg-name="Кавказ 24" tvg-logo="https://iptvx.one",Кавказ 24 (Северо-Кавказский ФО)
+https://ngenix.net
+#EXTINF:-1 group-title="Ставрополь" tvg-id="atv-stavropol" tvg-name="АТВ-Ставрополь" tvg-logo="https://it999.ru",АТВ Ставрополь
+http://virelloso.top
+#EXTINF:-1 group-title="Ставрополь" tvg-id="kavkaz24" tvg-name="Кавказ 24" tvg-logo="https://it999.ru",Кавказ 24 (Северо-Кавказский ФО)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_KAVKAZ24/variant.m3u8
-#EXTINF:-1 group-title="Краснодар" tvg-id="krasnodar" tvg-name="Краснодар" tvg-logo="https://iptvx.one",Краснодар (Краснодар)
+https://ngenix.net
+#EXTINF:-1 group-title="Краснодар" tvg-id="krasnodar" tvg-name="Краснодар" tvg-logo="https://it999.ru",Краснодар (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_KRASNODAR/variant.m3u8
-#EXTINF:-1 group-title="Краснодар" tvg-id="kuban-24" tvg-name="Кубань 24" tvg-logo="https://iptvx.one",Кубань 24 (Краснодар)
+https://ngenix.net
+#EXTINF:-1 group-title="Краснодар" tvg-id="kuban-24" tvg-name="Кубань 24" tvg-logo="https://it999.ru",Кубань 24 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+https://ngenix.net
