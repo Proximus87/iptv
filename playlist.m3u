@@ -4,7 +4,6 @@
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
 #EXTINF:-1 group-title="Ставрополь" #EXTINF:0 tvg-id="atv-stavropol" tvg-rec="0",АТВ Ставрополь
 #EXTGRP:другие
-http://virelloso.top
 http://hv8bnhcf.virelloso.top/iptv/R2WLB2WWFM92EF/15354/index.m3u8
 #EXTINF:-1 group-title="Ставрополь" tvg-id="kavkaz24",Кавказ 24 (Северо-Кавказский ФО)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
