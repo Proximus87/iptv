@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
+#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
 #EXTINF:-1 group-title="Ставрополь" tvg-id="svoyo-tv-stavropol" tvg-name="Своё ТВ (Ставрополь)" tvg-logo="https://it999.ru",Своё ТВ (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
