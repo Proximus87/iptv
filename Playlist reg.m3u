@@ -1,23 +1,18 @@
 #EXTM3U
 
 # === КРАСНОДАР ===
-#EXTINF:-1 group-title="Краснодар и край",Краснодар (Краснодар)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://tvkrasnodar.ru
+#EXTINF:-1 group-title="Краснодар",Краснодар (Краснодар)
+https://limehd.tv
 
-#EXTINF:-1 group-title="Краснодар и край",Кубань 24 (Краснодар)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://rutube.ru
+#EXTINF:-1 group-title="Краснодар",Кубань 24 (Краснодар)
+https://cdnvideo.ru
 
 # === СТАВРОПОЛЬ ===
 #EXTINF:-1 group-title="Ставрополь",Своё ТВ (Ставрополь)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://stv24.tv
+https://limehd.tv
 
 #EXTINF:-1 group-title="Ставрополь",АТВ-Ставрополь (Ставрополь)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://atvmedia.ru
+https://limehd.tv
 
 #EXTINF:-1 group-title="Ставрополь",Кавказ 24 (Северо-Кавказский ФО)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rtr-vesti.ru
+https://limehd.tv
