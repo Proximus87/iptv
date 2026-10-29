@@ -1,0 +1,18 @@
+#EXTM3U
+
+# === КРАСНОДАР ===
+#EXTINF:-1 group-title="Краснодар",Краснодар (Краснодар)
+https://limehd.tv
+
+#EXTINF:-1 group-title="Краснодар",Кубань 24 (Краснодар)
+https://cdnvideo.ru
+
+# === СТАВРОПОЛЬ ===
+#EXTINF:-1 group-title="Ставрополь",Своё ТВ (Ставрополь)
+https://limehd.tv
+
+#EXTINF:-1 group-title="Ставрополь",АТВ-Ставрополь (Ставрополь)
+https://limehd.tv
+
+#EXTINF:-1 group-title="Ставрополь",Кавказ 24 (Северо-Кавказский ФО)
+https://limehd.tv
