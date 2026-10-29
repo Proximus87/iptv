@@ -1,18 +1,16 @@
-#EXTM3U
-
-# === КРАСНОДАР ===
-#EXTINF:-1 group-title="Краснодар",Краснодар (Краснодар)
-https://limehd.tv
-
-#EXTINF:-1 group-title="Краснодар",Кубань 24 (Краснодар)
-https://cdnvideo.ru
-
-# === СТАВРОПОЛЬ ===
-#EXTINF:-1 group-title="Ставрополь",Своё ТВ (Ставрополь)
-https://limehd.tv
-
-#EXTINF:-1 group-title="Ставрополь",АТВ-Ставрополь (Ставрополь)
-https://limehd.tv
-
-#EXTINF:-1 group-title="Ставрополь",Кавказ 24 (Северо-Кавказский ФО)
-https://limehd.tv
+#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
+#EXTINF:-1 group-title="Ставрополь" tvg-id="svoyo-tv-stavropol",Своё ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+#EXTINF:-1 group-title="Ставрополь" tvg-id="atv-stavropol",АТВ-Ставрополь (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
+#EXTINF:-1 group-title="Ставрополь" tvg-id="kavkaz24",Кавказ 24 (Северо-Кавказский ФО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_KAVKAZ24/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="krasnodar",Краснодар (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_KRASNODAR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="kuban-24",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
