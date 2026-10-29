@@ -1,53 +1,164 @@
+
 #EXTM3U url-tvg="https://iptvx.one" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
 
-# === КАТЕГОРИЯ: РЕГИОНАЛЬНЫЕ НОВОСТИ И ЖИЗНЬ ===
-#EXTINF:-1 group-title="Региональные" tvg-id="kuban-24" tvg-logo="https://iptvx.one",Кубань 24 (Краснодар)
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="pervy" tvg-logo="https://iptvx.one",Первый (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Региональные" tvg-id="krasnodar" tvg-logo="https://iptvx.one",Телеканал Краснодар
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Региональные" tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one",Своё ТВ (Ставрополь)
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Региональные" tvg-id="sochi24" tvg-logo="https://iptvx.one",Сочи 24
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="ntv" tvg-logo="https://iptvx.one",НТВ (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Региональные" tvg-id="izvestia" tvg-logo="https://iptvx.one",Известия-Армавир
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="match-tv" tvg-logo="https://iptvx.one",Матч ТВ (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-# === КАТЕГОРИЯ: БИЗНЕС И ПОЛИТИКА ===
-#EXTINF:-1 group-title="Бизнес" tvg-id="rbk" tvg-logo="https://iptvx.one",РБК-Кубань
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="5kanal-ru" tvg-logo="https://iptvx.one",Пятый (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Бизнес" tvg-id="kavkaz24" tvg-logo="https://iptvx.one",Кавказ 24 (СКФО)
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="sts" tvg-logo="https://iptvx.one",СТС (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-# === КАТЕГОРИЯ: ГОРОДСКИЕ ИНТЕРАКТИВНЫЕ ===
-#EXTINF:-1 group-title="Городские" tvg-id="atv-stavropol" tvg-logo="https://iptvx.one",АТВ-Ставрополь
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="tnt" tvg-logo="https://iptvx.one",ТНТ (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-# === КАТЕГОРИЯ: МЕСТНОЕ ВЕЩАНИЕ (ГТРК) ===
-#EXTINF:-1 group-title="Местное вещание" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 (Краснодар)
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="tnt4" tvg-logo="https://iptvx.one",ТНТ4 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Местное вещание" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 (Ставрополь)
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="domashny" tvg-logo="https://iptvx.one",Домашний (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Местное вещание" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 (Краснодар)
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="domashny" tvg-logo="https://iptvx.one",Домашний Резерв (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Местное вещание" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 (Ставрополь)
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="tv3-ru" tvg-logo="https://iptvx.one",ТВ-3 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="piatnica" tvg-logo="https://iptvx.one",Пятница! (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="zvezda" tvg-logo="https://iptvx.one",Звезда (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="mir" tvg-logo="https://iptvx.one",МИР (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="che" tvg-logo="https://iptvx.one",Че! (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="karusel" tvg-logo="https://iptvx.one",Карусель (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="otr" tvg-logo="https://iptvx.one",ОТР (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="tvcentr" tvg-logo="https://iptvx.one",ТВ Центр (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="rentv" tvg-logo="https://iptvx.one",РЕН ТВ (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="krasnodar" tvg-logo="https://iptvx.one",Краснодар (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="kuban-24" tvg-logo="https://iptvx.one",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="kuban-24" tvg-logo="https://iptvx.one",Кубань 24-Т (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="rbk" tvg-logo="https://iptvx.one",РБК-Кубань (Краснодарский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="izvestia" tvg-logo="https://iptvx.one",Известия-Армавир (Армавир)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy" tvg-logo="https://iptvx.one",Первый (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy" tvg-logo="https://iptvx.one",Первый Резерв (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy" tvg-logo="https://iptvx.one",Первый Доп (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 Резерв (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 Доп (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 Резерв (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 Доп (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv" tvg-logo="https://iptvx.one",НТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv" tvg-logo="https://iptvx.one",НТВ Резерв (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv" tvg-logo="https://iptvx.one",НТВ Доп (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="match-tv" tvg-logo="https://iptvx.one",Матч ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="match-tv" tvg-logo="https://iptvx.one",Матч ТВ Резерв (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="5kanal-ru" tvg-logo="https://iptvx.one",Пятый (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="5kanal-ru" tvg-logo="https://iptvx.one",Пятый Резерв (Ставрополь)
