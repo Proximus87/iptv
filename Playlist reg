@@ -1,0 +1,53 @@
+#EXTM3U url-tvg="https://iptvx.one" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
+
+# === КАТЕГОРИЯ: РЕГИОНАЛЬНЫЕ НОВОСТИ И ЖИЗНЬ ===
+#EXTINF:-1 group-title="Региональные" tvg-id="kuban-24" tvg-logo="https://iptvx.one",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Региональные" tvg-id="krasnodar" tvg-logo="https://iptvx.one",Телеканал Краснодар
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Региональные" tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one",Своё ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Региональные" tvg-id="sochi24" tvg-logo="https://iptvx.one",Сочи 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia" tvg-logo="https://iptvx.one",Известия-Армавир
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+# === КАТЕГОРИЯ: БИЗНЕС И ПОЛИТИКА ===
+#EXTINF:-1 group-title="Бизнес" tvg-id="rbk" tvg-logo="https://iptvx.one",РБК-Кубань
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Бизнес" tvg-id="kavkaz24" tvg-logo="https://iptvx.one",Кавказ 24 (СКФО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+# === КАТЕГОРИЯ: ГОРОДСКИЕ ИНТЕРАКТИВНЫЕ ===
+#EXTINF:-1 group-title="Городские" tvg-id="atv-stavropol" tvg-logo="https://iptvx.one",АТВ-Ставрополь
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+# === КАТЕГОРИЯ: МЕСТНОЕ ВЕЩАНИЕ (ГТРК) ===
+#EXTINF:-1 group-title="Местное вещание" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Местное вещание" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Местное вещание" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Местное вещание" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
