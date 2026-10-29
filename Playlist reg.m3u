@@ -5,7 +5,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://ngenix.net
 
-#EXTINF:-1 group-title="Краснодар и край" tvg-id="kuban-24" tvg-logo="https://iptvx.one",Кубань 24 (Стабильный поток)
+#EXTINF:-1 group-title="Краснодар и край" tvg-id="kuban-24" tvg-logo="https://iptvx.one",Кубань 24 (Краснодар)
 https://rutube.ru
 
 # === КАТЕГОРИЯ: СТАВРОПОЛЬ И СКФО ===
@@ -15,5 +15,5 @@ http://stv24.tv
 #EXTINF:-1 group-title="Ставрополь и СКФО" tvg-id="atv-stavropol" tvg-logo="https://iptvx.one",АТВ-Ставрополь (Официальный HD)
 http://atvmedia.ru
 
-#EXTINF:-1 group-title="Ставрополь и СКФО" tvg-id="kavkaz24" tvg-logo="https://iptvx.one",Кавказ 24 HD (ВГТРК СКФО)
-https://radio-live-mg.rtr-vesti.ru/hls2/kavkaz_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Ставрополь и СКФО" tvg-id="kavkaz24" tvg-logo="https://iptvx.one",Кавказ 24 HD (ВГТРК)
+https://rtr-vesti.ru
