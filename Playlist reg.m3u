@@ -1,23 +1,23 @@
 #EXTM3U
 
 # === КРАСНОДАР ===
-#EXTINF:-1 group-title="Краснодар" tvg-id="krasnodar",Краснодар (Краснодар)
+#EXTINF:-1 group-title="Краснодар",Краснодар (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://ngenix.net
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
 
-#EXTINF:-1 group-title="Краснодар" tvg-id="kuban-24",Кубань 24 (Краснодар)
+#EXTINF:-1 group-title="Краснодар",Кубань 24 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
 # === СТАВРОПОЛЬ ===
-#EXTINF:-1 group-title="Ставрополь" tvg-id="svoyo-tv-stavropol",Своё ТВ (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь",Своё ТВ (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="atv-stavropol",АТВ-Ставрополь (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь",АТВ-Ставрополь (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="kavkaz24",Кавказ 24 (Северо-Кавказский ФО)
+#EXTINF:-1 group-title="Ставрополь",Кавказ 24 (Северо-Кавказский ФО)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
