@@ -1,19 +1,18 @@
 #EXTM3U url-tvg="https://iptvx.one" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
 
 # === КАТЕГОРИЯ: КРАСНОДАР И КРАЙ ===
-#EXTINF:-1 group-title="Краснодар и край" tvg-id="krasnodar" tvg-logo="https://iptvx.one",Телеканал Краснодар HD
-#EXTVLCOPT:http-user-agent=WINK/1.34.1
-https://ngenix.net
+#EXTINF:-1 group-title="Краснодар и край" tvg-id="krasnodar",Телеканал Краснодар HD
+http://tvkrasnodar.ru
 
-#EXTINF:-1 group-title="Краснодар и край" tvg-id="kuban-24" tvg-logo="https://iptvx.one",Кубань 24 (Краснодар)
+#EXTINF:-1 group-title="Краснодар и край" tvg-id="kuban-24",Кубань 24
 https://rutube.ru
 
 # === КАТЕГОРИЯ: СТАВРОПОЛЬ И СКФО ===
-#EXTINF:-1 group-title="Ставрополь и СКФО" tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one",Своё ТВ (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь и СКФО" tvg-id="svoyo-tv-stavropol",Своё ТВ (Ставрополь)
 http://stv24.tv
 
-#EXTINF:-1 group-title="Ставрополь и СКФО" tvg-id="atv-stavropol" tvg-logo="https://iptvx.one",АТВ-Ставрополь (Официальный HD)
+#EXTINF:-1 group-title="Ставрополь и СКФО" tvg-id="atv-stavropol",АТВ-Ставрополь
 http://atvmedia.ru
 
-#EXTINF:-1 group-title="Ставрополь и СКФО" tvg-id="kavkaz24" tvg-logo="https://iptvx.one",Кавказ 24 HD (ВГТРК)
+#EXTINF:-1 group-title="Ставрополь и СКФО" tvg-id="kavkaz24",Кавказ 24 HD (ВГТРК)
 https://rtr-vesti.ru
