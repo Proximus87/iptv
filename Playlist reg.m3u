@@ -41,7 +41,7 @@ https://ngenix.net
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="domashny" tvg-logo="https://iptvx.one",Домашний Резерв (Краснодар)
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="domashny" tvg-logo="https://iptvx.one",Домашний (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
@@ -57,7 +57,7 @@ https://ngenix.net
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="mir" tvg-logo="https://iptvx.one",МИР (Краснодар)
+#EXTINF:-1 group-title="Краснодар и Амавир" tvg-id="mir" tvg-logo="https://iptvx.one",МИР (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
@@ -89,7 +89,7 @@ https://ngenix.net
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="kuban-24" tvg-logo="https://iptvx.one",Кубань 24-Т (Краснодар)
+#EXTINF:-1 group-title="Краснодар и Армавир" tvg-id="kuban-24" tvg-logo="https://iptvx.one",Кубань 24 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
@@ -106,11 +106,11 @@ https://ngenix.net
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy" tvg-logo="https://iptvx.one",Первый Резерв (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy" tvg-logo="https://iptvx.one",Первый (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy" tvg-logo="https://iptvx.one",Первый Доп (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь" tvg-id="pervy" tvg-logo="https://iptvx.one",Первый (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
@@ -118,11 +118,11 @@ https://ngenix.net
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 Резерв (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 Доп (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia1" tvg-logo="https://iptvx.one",Россия 1 (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
@@ -130,11 +130,7 @@ https://ngenix.net
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 Резерв (Ставрополь)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://ngenix.net
-
-#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 Доп (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь" tvg-id="rossia-24" tvg-logo="https://iptvx.one",Россия 24 (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
@@ -142,11 +138,11 @@ https://ngenix.net
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv" tvg-logo="https://iptvx.one",НТВ Резерв (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv" tvg-logo="https://iptvx.one",НТВ (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv" tvg-logo="https://iptvx.one",НТВ Доп (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь" tvg-id="ntv" tvg-logo="https://iptvx.one",НТВ (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
@@ -154,7 +150,7 @@ https://ngenix.net
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
-#EXTINF:-1 group-title="Ставрополь" tvg-id="match-tv" tvg-logo="https://iptvx.one",Матч ТВ Резерв (Ставрополь)
+#EXTINF:-1 group-title="Ставрополь" tvg-id="match-tv" tvg-logo="https://iptvx.one",Матч ТВ (Ставрополь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
@@ -162,3 +158,8 @@ https://ngenix.net
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://ngenix.net
 
+#EXTINF:-1 group-title="Ставрополь" tvg-id="5kanal-ru" tvg-logo="https://iptvx.one",Пятый (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://ngenix.net
+
+#EXTINF:-1 group-title="Ставрополь" tvg-id="kultura" tvg-logo="https://iptvx.one",Россия К (Ставрополь)
